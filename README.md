@@ -605,7 +605,9 @@ Prometheus - это сложная система со многими компо
 
 ## Больше о Prometheus DB
 
-Больше о Prometheus можно узнать на официальном сайте [prometheus](https://prometheus.io/)
+* Больше о Prometheus можно узнать на официальном сайте [prometheus](https://prometheus.io/) (тут очень подробно)
+* Статья на medium: [https://medium.com/@wbassler23/getting-started-with-prometheus-pt-1-8f95eef417ed](https://medium.com/)
+* Статья на habr: [https://habr.com/](https://habr.com/ru/company/selectel/blog/275803/)
 
 ## Сообщество
 
